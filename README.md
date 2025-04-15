@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Sophie</h1>
+<h1 align="center">Hellooo, this is Sophie 🤖</h1>
